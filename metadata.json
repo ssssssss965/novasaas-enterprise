@@ -1,0 +1,6 @@
+{
+  "name": "NovaSaaS - Enterprise SaaS Platform",
+  "description": "Full-stack SaaS platform with REST API, JWT auth, RBAC, file management, billing, and API docs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
